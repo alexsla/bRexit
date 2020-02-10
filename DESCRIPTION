@@ -1,0 +1,13 @@
+Package: bRexit
+Type: Package
+Title: bRexit
+Version: 0.1.0
+Author: Alex Slavenko
+Maintainer: Alex Slavenko <gluttony14@gmail.com>
+Description: This package contains a single function. If you choose to run it, it will generate an infinite loop.
+    There is no end product. It just runs indefinitely, slowing your system down until the inevitable heat death of the universe, or until you system crashes - whichever occurs first.
+    The good news is this will only happen if you choose to use bRexit.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
